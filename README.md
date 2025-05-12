@@ -28,7 +28,7 @@ A real-time Tweet sentiment analysis service with:
    # produces sentiment_model.pkl
 
 2. **Build & run with Docker Compose:**
-   # from project root
+    from project root
 docker-compose up --build -d
 
 3. **Access services:**
