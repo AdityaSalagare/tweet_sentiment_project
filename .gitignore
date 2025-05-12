@@ -1,0 +1,31 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Data files (if not committed)
+data/
+
+# Model artifacts (if you prefer retraining instead)
+*.pkl
+
+# Logs
+*.log
+
+# Docker Compose override
+docker-compose.override.yml
+
+# macOS
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
